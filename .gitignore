@@ -7,3 +7,4 @@ tests/temp/*.log
 /composer.phar
 .zcache
 .idea
+.zcache
